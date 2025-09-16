@@ -129,6 +129,7 @@ while true; do
   echo "12. Search For a Package" | lolcat
   echo "13. Package Info" | lolcat
   echo "14. Package Manager History" | lolcat
+  echo "15. Exit" | lolcat
   echo "-------------------------------"
   read -p "Choose an option: " choice
 
